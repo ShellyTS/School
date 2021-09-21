@@ -11,6 +11,8 @@ namespace Exercise1
             Console.WriteLine();
             Console.WriteLine("My name is Shelly");
             Console.WriteLine("");
+            Console.WriteLine("And mine is Michael.");
+            Console.WriteLine("And i like Whiskey");
         }
     }
 }
