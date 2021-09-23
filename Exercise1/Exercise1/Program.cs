@@ -11,10 +11,6 @@ namespace Exercise1
             Console.WriteLine();
             Console.WriteLine("My name is Shelly");
             Console.WriteLine("");
-            //test
-            //test3
-            //test4
-            //test5
         }
     }
 }
