@@ -11,7 +11,10 @@ namespace Exercise1
             Console.WriteLine();
             Console.WriteLine("My name is Shelly");
             Console.WriteLine("");
+<<<<<<< HEAD
 // test
+=======
+>>>>>>> 9bcbe3ff031bad06e98e29fa899924df23925f8c
         }
     }
 }
